@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new game at cards, or, The three nimble shuffling cheaters to a pleasant new tune, Or, what you please.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09581</idno><idno type="EEBO-CITATION">62369504</idno>
+  <idno type="VID">188032</idno>
+  <idno type="EEBO-PROQUEST">2240879814</idno>
+  
+            <idno type="STC">Wing N642</idno>
+            <idno type="STC">ESTC R180935</idno>
+            <idno type="OCLC">62369504</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09581)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188032)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2853:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new game at cards, or, The three nimble shuffling cheaters to a pleasant new tune, Or, what you please.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>For Francis Coles, John Wright, Tho. Vere and William Gilbertson,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1655-1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Item lacks imprint.</note>
+                  <note>Publication data suggested by Wing (2nd ed.).</note>
+                  <note>Verses in black letter, chorus lines in Roman.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:188032:1"/>
+            <pb facs="tcp:188032:2"/>
+            <div type="song">
+               <head>A New game at Cards. OR, The three Nimble Shuffling Cheaters.</head>
+               <opener>To a pleasant new tune, Or, what you please.</opener>
+               <p>
+                  <figure>
+                     <figDesc>Two men, one of them holding a spear</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>YOu Gallants all that love to play,</l>
+                  <l>At Cards to pass the time away,</l>
+                  <l>I will tell you a new game,</l>
+                  <l>If you will please to learn the same,</l>
+                  <l>
+                     <hi>Such a game you have not seen,</hi>
+                  </l>
+                  <l>
+                     <hi>Play with all the Knaves without King or Queen</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>There were three cheaters met together,</l>
+                  <l>To sée if they could cheat each other,</l>
+                  <l>The first was an <hi>Irish-man</hi> so bot,</l>
+                  <l>The second was a cheating <hi>Scot,</hi>
+                  </l>
+                  <l>
+                     <hi>The third an English-man so round,</hi>
+                  </l>
+                  <l>
+                     <hi>Yet he would play for an English Crown,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The game it was so strange yet true</l>
+                  <l>The standers by as ne'r yet knew,</l>
+                  <l>How the game was to be plaid,</l>
+                  <l>Or how the Cards were cut and laid,</l>
+                  <l>
+                     <hi>For there was a secret in the thing,</hi>
+                  </l>
+                  <l>
+                     <hi>That the Knave of Clubs should beat the King▪</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The <hi>Irish-man</hi> began the game,</l>
+                  <l>But knew not how to play the same,</l>
+                  <l>But quarrelled with the <hi>English-man,</hi>
+                  </l>
+                  <l>For holding the Cards so under-hand</l>
+                  <l>
+                     <hi>For he d<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d not know the thing,</hi>
+                  </l>
+                  <l>
+                     <hi>Th<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t the Knave of Clubs should be above the King</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The <hi>Scotch-man</hi> he began to deal,</l>
+                  <l>He shuffled and cut and away d<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d steal,</l>
+                  <l>The King then from the <hi>En<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lish-man,</hi>
+                  </l>
+                  <l>Then many thought the game was done,</l>
+                  <l>
+                     <hi>For he did not know the thing,</hi>
+                  </l>
+                  <l>
+                     <hi>That the Knave should be above the King.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The <hi>English-man</hi> was at a stand,</l>
+                  <l>To sée the King in the <hi>Scotch-mans</hi> hand,</l>
+                  <l>Then he began to cast about,</l>
+                  <l>What he must do to fetch him out,</l>
+                  <l>
+                     <hi>He thought that mony must do the thing,</hi>
+                  </l>
+                  <l>
+                     <hi>And make the Knave to be above the King.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:188032:2"/>
+               <head>
+                  <figure>
+                     <figDesc>the devil approaching a group of men holding a globe</figDesc>
+                  </figure>
+               </head>
+               <lg>
+                  <l>THe <hi>Scotch-man</hi> like a cheating Knave,</l>
+                  <l>when he knew what mony he should have</l>
+                  <l>Like a clown he cast him back,</l>
+                  <l>Vnder the Knave into the pack,</l>
+                  <l>
+                     <hi>And by this meanes he thought to win,</hi>
+                  </l>
+                  <l>
+                     <hi>When he pla<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d the game no King no King.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The <hi>English-man</hi> was greatly glad,</l>
+                  <l>When the King again in hand he had,</l>
+                  <l>He cockt his Braver and did jump,</l>
+                  <l>Because the Knaves of Clubs was trump,</l>
+                  <l>
+                     <hi>Now quoth he I'm sure to win.</hi>
+                  </l>
+                  <l>
+                     <hi>I know th<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> knave o<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> clubs will beat the King</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Fo<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r Country-men then plaid about,</l>
+                  <l>For j y the King was quite left out,</l>
+                  <l>Quoth one observe with due regards.</l>
+                  <l>The Knave is master of the Cards,</l>
+                  <l>
+                     <hi>And we rejo<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ce now at this thing,</hi>
+                  </l>
+                  <l>
+                     <hi>And glad they were they had left out the King</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>We care not for the King a pin,</l>
+                  <l>If by the Knave we thrive and win,</l>
+                  <l>For tis well known and justify'd.</l>
+                  <l>We ever lov'd the stron<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>est side.</l>
+                  <l>
+                     <hi>They all rejoyc'd now at this thing,</hi>
+                  </l>
+                  <l>
+                     <hi>And glad they were they had left out the King</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>A Gun-man gave a mighty crack,</l>
+                  <l>To sée the King cut of the pack,</l>
+                  <l>And said your knave of Clubs i'th end,</l>
+                  <l>When all is done must stand our friend,</l>
+                  <l>
+                     <hi>And I rejoyce now at this thing</hi>
+                  </l>
+                  <l>
+                     <hi>That you kind friends have quite left out the King</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The knave of clubs as you him call,</l>
+                  <l>Shall one day win the love of all,</l>
+                  <l>Those that abuse him and his Banners,</l>
+                  <l>Wée'l beat them into better manners</l>
+                  <l>
+                     <hi>But I rejoyce now at this thing.</hi>
+                  </l>
+                  <l>
+                     <hi>That you kind friends have quite left out the King</hi>
+                  </l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
